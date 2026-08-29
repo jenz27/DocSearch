@@ -103,6 +103,6 @@ npm start
 ---
 
 **💚 Contributors:**  
-👨‍💻 Developed by Ritik Rajvanshi
+👨‍💻 Developed by Bhavya Negi and Ishita Brice
 
 🚀 Happy coding!
