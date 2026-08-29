@@ -44,7 +44,7 @@ DocSearch is a full-stack web application built using the MERN (MongoDB, Express
 1️⃣ **Clone the repository**
 
 ```sh
-git clone https://github.com/ritikraj01/DocSearch.git
+git clone https://github.com/jenz27/DocSearch.git
 cd DocSearch
 ```
 
